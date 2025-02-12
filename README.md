@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎥 Multi-Platform Screen Casting
 
 🚀 **A powerful Rust-based screen casting application for seamless screen sharing across Windows, macOS, and Linux.**
@@ -89,6 +88,3 @@ MIT License – Free to use and modify.
 
 🎬 **Start streaming like a pro!**
 
-=======
-# Screen_Casting-Rust
->>>>>>> f3e686085325d375597228641f6e44b03beb0dc1
